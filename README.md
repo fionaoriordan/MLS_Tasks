@@ -1,5 +1,5 @@
-NB Use **Tasks.ipynb**
-***[DO NOT USE]*** Tasks-old-includes kmeans.ipynb ***[DO NOT USE]****
+###**USE Tasks.ipynb**  
+###***[DO NOT USE] Tasks-old-includes kmeans.ipynb***
 
 
 # MLS_Tasks      
