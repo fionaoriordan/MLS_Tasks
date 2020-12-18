@@ -1,3 +1,7 @@
+NB Use **Tasks.ipynb**
+***[DO NOT USE]*** Tasks-old-includes kmeans.ipynb ***[DO NOT USE]****
+
+
 # MLS_Tasks      
 GMIT Higher Diploma Data Analytics  
 Machine Learning and Statistics Module 52954  
@@ -28,11 +32,31 @@ Note: "Tasks-old-includes kmeans.ipy" should not be used.  This is an older file
 
 ## Prequisites
 The following will need to be installed on your machine.
-Python ( I have used Python 3.8.3 for this project). I would recommend anaconda installation [Anaconda](https://www.anaconda.com/products/individual)
-Python libraries: decimal, re,scipy.stats, matplotlib.pyplot, numpy, pandas, seaborn, sklearn, sklearn.cluster. 
+Python ( I have used Python 3.8.3 for this project). I would recommend anaconda installation [Anaconda](https://www.anaconda.com/products/individual).   
+Python, Jupyter notebooks comes with Ananconda.  
 
-# Cloning the repository
+Python libraries: decimal, re,scipy.stats, matplotlib.pyplot, numpy, pandas, seaborn, sklearn, sklearn.cluster.  
 
+## Cloning the repository
+Cloning allows you to create and use a copy of this repositiory on your local machine. 
+
+1. In this [repository](https://github.com/fionaoriordan/MLS_Tasks). 
+2. Click on the green button "Code". Select "Clone with HTTPS". Copy the URL.  
+3. In your terminal on your machine navigate to your preferred directory (folder). Type git clone https://github.com/fionaoriordan/MLS_Tasks.git ( this is the URL you have copied). 
+4. The repository is now installed
+
+## Executing the repository
+1. In your terminal navigate to the the folder where you cloned this repository.
+2. jupyter notebook
+3. jupyter notebook will launch.
+4. Click on Tasks.ipynb 
+5. You are now ready to use this repository.
+
+## Viewing the repository on GitHub.
+Click on Tasks.ipynb in this repository in GitHub will allow you to view this project without the need to clone or install Anaconda or any of the other prequisites.
+
+Best Wishes,
+Fiona
 
 
 
