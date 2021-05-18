@@ -1,5 +1,5 @@
 ### **USE Tasks.ipynb**  
-### ***[DO NOT USE] Tasks-old-includes kmeans.ipynb***
+### ***[DO NOT USE] Tasks-old-includes kmeans.ipynb which followed original Assignment Specification. Specification was revised.***
 ---
 
 # MLS_Tasks      
